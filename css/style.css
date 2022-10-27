@@ -890,6 +890,7 @@ works.html
 }
 
 #works-l .works-list li a:hover {
+  color: #333;
   text-decoration: underline;
 }
 
